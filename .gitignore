@@ -1,0 +1,4 @@
+# Project exclude paths
+/cseeer-admin/target/
+/cseeer-blog/target/
+/cseeer-framework/target/
